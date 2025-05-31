@@ -1,4 +1,4 @@
-# 💫 About Me:
+# WhoAmI ∞:
  Hey, I’m Hemopz<br><br>DevOps | DevSecOps | Automation<br><br>I build pipelines, ship code, and secure systems, from commit to production.<br><br>Minimalist by design. Obsessed with clean deployments, scalable infra, and repeatable workflows.<br><br>Tools I trust:  <br>🛠️ • Docker • Kubernetes • Terraform • GitHub Actions • Bash • Cloud (AWS)<br><br>> Automate. Secure. Ship. Repeat.<br><br>> Build like a developer, think like an SRE, secure like a hacker - hemopz<br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=400&color=00FF88&center=true&vCenter=true&width=1000&lines=Hemand+S+is+the+name;AKA+Hemopz;Mastering+DevOps;Cloud-Native;Secure+by+Design;Where+dev+ends,I+begin.;I+Ship+the+Code.)](https://git.io/typing-svg)
