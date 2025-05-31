@@ -1,7 +1,7 @@
 # 💫 About Me:
  Hey, I’m Hemopz<br><br>DevOps | DevSecOps | Automation<br><br>I build pipelines, ship code, and secure systems, from commit to production.<br><br>Minimalist by design. Obsessed with clean deployments, scalable infra, and repeatable workflows.<br><br>Tools I trust:  <br>🛠️ • Docker • Kubernetes • Terraform • GitHub Actions • Bash • Cloud (AWS)<br><br>> Automate. Secure. Ship. Repeat.<br><br>> Build like a developer, think like an SRE, secure like a hacker - hemopz<br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Hi+there!;I+am+Hemand+S;AKA+hemopz;DevOps+in+Motion;Automate.+Secure.+Ship.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=400&lines=Hemopz;DevOps;Cloud-Native;Secure+by+Design;Push.+Deploy.+Done.)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemand-sreenivasan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hemandchindu2255@gmail.com) 
