@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hey, I’m Hemopz<br><br>DevOps | DevSecOps | Automation<br><br>I build pipelines, ship code, and secure systems — from commit to production.<br><br>Minimalist by design. Obsessed with clean deployments, scalable infra, and repeatable workflows.<br><br>Tools I trust:  <br>🛠️ • Docker • Kubernetes • Terraform • GitHub Actions • Bash • Cloud (AWS)<br><br>> Automate. Secure. Ship. Repeat.<br><br>> Build like a developer, think like an SRE, secure like a hacker - hemopz<br><br>
+ Hey, I’m Hemopz<br><br>DevOps | DevSecOps | Automation<br><br>I build pipelines, ship code, and secure systems, from commit to production.<br><br>Minimalist by design. Obsessed with clean deployments, scalable infra, and repeatable workflows.<br><br>Tools I trust:  <br>🛠️ • Docker • Kubernetes • Terraform • GitHub Actions • Bash • Cloud (AWS)<br><br>> Automate. Secure. Ship. Repeat.<br><br>> Build like a developer, think like an SRE, secure like a hacker - hemopz<br><br>
 
 
 ## 🌐 Socials:
